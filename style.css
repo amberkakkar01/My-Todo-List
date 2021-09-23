@@ -1,0 +1,10 @@
+body{
+    background-image: url('bg.jpg');
+}
+#ulTasks li.done{
+    color: #6c757d;
+    text-decoration: line-through;
+}
+#btnAdd{
+    background-color: rgb(2, 160, 63);
+}
